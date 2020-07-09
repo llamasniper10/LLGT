@@ -1,0 +1,18 @@
+[Project ID]
+	Signature=UE Proj: v.1
+[Project Information]
+	Use Relative Directory=1
+	Relative to Project File=1
+	Include Sub Directories=0
+	Project Tagfile=.\tags.lst
+	Project Wordfile=
+	Project TpFile=
+	Filter=
+	Create Tagfile=1
+[Files]
+	0=.\src\
+	1=C:\Program Files\Microchip\xc16\v1.50\support\PIC24F\h\p24F08KM202.h
+	2=C:\Program Files\Microchip\xc16\v1.50\support\PIC24F\h\p24Fxxxx.h
+	3=C:\Program Files\Microchip\xc16\v1.50\support\generic\h\xc.h
+[Group Filter]
+	.\src\=*.c; *.h

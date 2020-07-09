@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/XC16_24FJ256GA110/production/pic24_c_template_1.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>2048</length>
+      <used>0</used>
+      <free>2048</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>7680</length>
+      <used>558</used>
+      <free>7122</free>
+    </memory>
+  </executable>
+</project>

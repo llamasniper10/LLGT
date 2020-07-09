@@ -1,0 +1,30 @@
+Microcontroller,,,,Debugger Jack,,
+Pin Number,Connection,Description,,Pin Number,Connection,Description
+1,MCLR,as described in the datasheet (p28),,1,MCLR,as described in the datasheet (p28)
+2,Vdd,Voltage reference,,2,Vdd,Power to the board
+3,SOUT,serial output to arduino,,3,GND,Grounding for the board
+4,DBG pin 4,connects to the debugger as part of the ICSP standard,,4,MCU pin 4,ICSP
+5,DBG pin 5,connects to the debugger as part of the ICSP standard,,5,MCU pin 5,ICSP
+6,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,6,NC,Pin not used
+7,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,7,NC,Pin not used
+8,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,8,NC,Pin not used
+9,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+10,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+11,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+12,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+13,Vdd,Power to chip,,,,
+14,SDA,I2C data line,,,,
+15,SCK,I2C clock line,,,,
+16,DRDY,data ready interrupt input – this may not work with those diodes,,,,
+17,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+18,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+19,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+20,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+21,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+22,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+23,Vout,analog voltage output,,,,
+24,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+25,Pulldown resistor,Pin not used (see Unused I/Os on p31 of the datasheet),,,,
+26,Vdd,DAC voltage reference,,,,
+27,GND,Coupled to Vdd using capacitor,,,,
+28,Vdd,Coupled to GND using capacitor,,,,

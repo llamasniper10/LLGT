@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/XC16_24FJ256GA110/debug/pic24_c_template_1.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>2048</length>
+      <used>80</used>
+      <free>1968</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>7680</length>
+      <used>594</used>
+      <free>7086</free>
+    </memory>
+  </executable>
+</project>

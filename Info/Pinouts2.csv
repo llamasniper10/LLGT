@@ -1,0 +1,21 @@
+Current Setup (Wrong),,,,
+Pin Number,Connection,Description,,
+1,MCLR,as described in the datasheet (p28),,
+2,Vdd,Power to the board,,
+3,GND,Grounding for the board,,
+4,PGD,ICSP,,
+5,PGC,ICSP,,
+6,NC,Pin not used,,
+7,NC,Pin not used,,
+8,NC,Pin not used,,
+,,,,
+What it should be,,,Color Mapping,
+PIN #,Name,ICSP,T568C,Target
+1,TTMS,,Green/White,Brown/White
+2,TAUX,AUX,Green,Orange
+3,PGC,CLK,Orange/White,Blue/White
+4,PGD,DAT,Blue,Blue
+5,GND,GND,Blue/White,Orange/White
+6,TVDD,VDD,Orange,Green
+7,TVPP,!MCLR,Brown/White,Green/White
+8,TTDI,,Brown,Brown
